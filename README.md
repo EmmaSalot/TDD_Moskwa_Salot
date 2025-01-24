@@ -1,1 +1,0 @@
-# TDD_Moskwa_Salot
